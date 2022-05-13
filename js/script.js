@@ -1,8 +1,9 @@
 
-
+/*
 // Skapar popup + alert
 let username = prompt("Enter your name: ");
 alert("Welcome, " + username + "!");
+*/
 
 
 // Skriver ut medelande i konsollen
