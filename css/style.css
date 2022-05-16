@@ -111,15 +111,12 @@ p{
     text-align: center;
 }
 
-/*
-.dark-theme{
-    background-color: var(--black);
-    color: var(--black)
-}
-*/
 
 footer{
     text-align: center;
     padding: 10px; 
     margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
